@@ -5,8 +5,7 @@ Hi! My name is Cassidy Mabey and i'm a programmer from the UK.
 
 ### A bit about me
 - I am currently in school.
-- I like to play a game of [Chess](https://www.chess.com/member/wintrcat) now and then
-- I want to learn more about AI and machine learning...
+- I want to learn about encryption...
 
 <br>
 
