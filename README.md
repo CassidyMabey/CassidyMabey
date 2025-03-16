@@ -11,6 +11,9 @@ Hi! My name is Cassidy Mabey and i'm a programmer from the UK.
 <br>
 
 ### What i can code
-<img src="./assets/javascript.png" width="50px" height="50px">
-<img src="">
-<img src="">
+<div>
+  <img src="./assets/javascript.png" width="50px" height="50px">
+  <img src="./assets/python.png" width="50px" height="50px">
+  <img src="">
+</div>
+
