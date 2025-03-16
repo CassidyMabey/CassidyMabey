@@ -9,6 +9,7 @@ Hi! My name is Cassidy Mabey and i'm a programmer from the UK.
 - I want to learn more about AI and machine learning...
 
 <br>
+
 ### What i can code
 <img src="./assets/javascript.png">
 <img src="">
