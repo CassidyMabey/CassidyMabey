@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @CassidyMabey
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#  Me
+Hi! My name is Cassidy Mabey and i'm a programmer from the UK.
+<br><br>
+📑 [Portfolio](https://wintrcat.uk/) | 🎥 [YouTube](https://www.youtube.com/@wintrcat) | 🐦 [Twitter](https://x.com/wintrcat_)
 
-<!---
-CassidyMabey/CassidyMabey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### A bit about me
+- I am currently in school.
+- I like to play a game of [Chess](https://www.chess.com/member/wintrcat) now and then
+- I want to learn more about AI and machine learning...
+
+<br>
+### What i can code
+<img src="">
+<img src="">
+<img src="">
