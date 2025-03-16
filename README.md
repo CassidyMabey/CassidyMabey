@@ -14,6 +14,7 @@ Hi! My name is Cassidy Mabey and i'm a programmer from the UK.
 <div>
   <img src="./assets/javascript.png" width="50px" height="50px">
   <img src="./assets/python.png" width="50px" height="50px">
-  <img src="">
+  <img src="./assets/html.png" width="50px" height="50px">
+  <img src="./assets/java.png" width="50px" height="50px">
 </div>
 
