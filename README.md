@@ -1,7 +1,11 @@
 #  Me
 Hi! My name is Cassidy Mabey and i'm a programmer from the UK.
-<br><br>
-📑 [Portfolio](https://wintrcat.uk/) | 🎥 [YouTube](https://www.youtube.com/@wintrcat) | 🐦 [Twitter](https://x.com/wintrcat_)
+<br>
+<br>
+### Where to find me
+✍ [Portfolio](https://example.com)
+<br>
+<img src="./assets/linkedin.png" width="25" height="25"> [LinkedIn](https://www.linkedin.com/in/cassidy-mabey-712b83356/)
 
 ## A bit about me
 - 👨‍🎓 I am currently in school.
@@ -9,7 +13,7 @@ Hi! My name is Cassidy Mabey and i'm a programmer from the UK.
 
 <br>
 
-## What i can code
+## What languages i know
 <div>
   <img src="./assets/javascript.png" width="50px" height="50px">
   <img src="./assets/python.png" width="50px" height="50px">
