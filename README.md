@@ -20,4 +20,12 @@ Hi! My name is Cassidy Mabey and i'm a programmer from the UK.
   <img src="./assets/html.png" width="50px" height="50px">
   <img src="./assets/java.png" width="50px" height="50px">
 </div>
+<br>
+
+![CassidyMabey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CassidyMabey&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+## Random Stats Nobody Cares About
+
+![CassidyMabey's Stats](https://github-readme-stats.vercel.app/api?username=CassidyMabey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
